@@ -79,7 +79,7 @@ Android application helping citizens and traffic authorities monitor congestion,
 `Kotlin` `Java` `Jetpack Compose` `XML` `Firebase` `Google Maps SDK` `Razorpay`
 
 [![App Repo](https://img.shields.io/badge/App_Repository-1f6feb?style=flat-square&logo=github)](https://github.com/Huzaifpathan/CityFlux)
-[![Admin Repo](https://img.shields.io/badge/Admin_Dashboard_(team)-0d1117?style=flat-square&logo=github)](https://github.com/Huzaifpathan/cityflux-admin)
+[![Admin Repo](https://img.shields.io/badge/Admin_Dashboard_%28team%29-0d1117?style=flat-square&logo=github)](https://github.com/Huzaifpathan/cityflux-admin)
 
 </td>
 <td width="50%" valign="top">
